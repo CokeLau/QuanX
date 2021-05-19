@@ -1,0 +1,10 @@
+/* update:2021-05-19 21:21:00
+配置来自网络，如有打扰请联系我
+
+
+http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐1
+http=aimer.one:3333,fast-open=false, udp-relay=false, tag=网易云音乐2
+http=block4music.poetyin.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐3
+http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐4
+http=music.griouges.cn:39000, over-tls=false, fast-open=false, udp-relay=false,tag=网易云音乐5
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=网易云音乐6
