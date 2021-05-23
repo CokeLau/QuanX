@@ -12,4 +12,4 @@ http=block4music.poetyin.me:39000,over-tls=false, fast-open=false, udp-relay=fal
 http=salvan.icu:19980,over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐9
 http=1.116214.16:19980,over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐10
 ss=music.desperadoj.com:30001,cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m,over-tls=false, fast-open=false, udp-relay=false,tag=网易云音乐11
-ss=music.desperadoj.com:30003,cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m,over-tls=false, fast-open=false, udp-relay=false,tag=网易云音乐11
+ss=music.desperadoj.com:30003,cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m,over-tls=false, fast-open=false, udp-relay=false,tag=网易云音乐12
