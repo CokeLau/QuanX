@@ -9,4 +9,4 @@ http=34.92.129.82:2021, over-tls=false, fast-open=false, udp-relay=false, tag=�
 http=223.112.128.66:23334,over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐6
 http=salvan.icu:19980,over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐7
 shadowsocks=music.desperadoj.com:30001,method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m,over-tls=false, fast-open=false, udp-relay=false,tag=网易云音乐8
-ss=music.desperadoj.com:30003,method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m,over-tls=false, fast-open=false, udp-relay=false,tag=网易云音乐9
+shadowsocks=music.desperadoj.com:30003,method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m,over-tls=false, fast-open=false, udp-relay=false,tag=网易云音乐9
