@@ -1,47 +1,55 @@
-# Genshin
-<img src="https://genshin-card.getloli.com/rand/287266572.png" width="800" height="400" >
+# Hi there 👋
 
-#### 安装教程
-1.  前提
-使用iOS操作系统的手机或平板
-下载[Scriptable](https://apps.apple.com/cn/app/scriptable/id1405459188)
+<a>
+  <img align="right" width="450px" src="./github-metrics.svg" />
+</a>
+  
+<p align="center">
+  <img width="300px" src="https://count.getloli.com/get/@CokeLau?theme=rule34"></img>
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CokeLau&layout=compact"></img>
+</p>
 
-打开后点击右上角的➕，新建一个Scripts
+## 🌟 I'm **乐乐**
+[![Bilibili](https://img.shields.io/badge/github-CMHopeSunshine-00A2D8.svg?logo=github)](https://github.com/CokeLau)
+[![Bilibili](https://img.shields.io/badge/bilibili-CherishMoon-00A2D8.svg?logo=bilibili)](https://space.bilibili.com/85589983)
+[![miyoushe](https://img.shields.io/badge/%E7%B1%B3%E6%B8%B8%E7%A4%BE-%E6%83%9C%E6%9C%88-00A2D8.svg)](https://www.miyoushe.com/ys/accountCenter/postList?id=49837885)
 
-复制以下代码运行即可
 
-```
-llet iCloud = FileManager.iCloud()
-let pathCode = iCloud.joinPath(iCloud.documentsDirectory(), "Genshin Daily.js")
-let codeUrl = await new Request("https://gitee.com/peter7/genshin/raw/master/Genshin%20Daily.js").loadString()
-iCloud.writeString(pathCode, codeUrl)
-let n = new Notification()
-n.title = "脚本下载"
-n.body = "成功。"
-n.sound = "default"
-await n.schedule()
-```
+- 👨🏻‍🎓Graduated from Computer Science and Technology.
+- 🤖Being good at [Python chatbot](https://github.com/nonebot/nonebot2) development.
+- ✏️Learning Python/Node.js/Java/Linux etc.
+- 👀Looking for a suitable job.
 
-2.  获取Cookie
-- PC获取
-```
-var cookie = document.cookie;
-var Str_Num = cookie.indexOf('_MHYUUID=');
-cookie = '添加 ' + cookie.substring(Str_Num);
-var ask = confirm('Cookie:' + cookie);
-if (ask == true) {
-  copy(cookie);
-  msg = cookie
-} else {
-  msg = 'Cancel'
-}
-```
-复制上面全部代码，然后打开https://bbs.mihoyo.com/ys/
+## 📖 **Learning**
 
-在页面上右键检查或者Ctrl+Shift+i
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-4fc08d?style=flat-square&logo=javascript&logoColor=fff)
+![](https://img.shields.io/badge/-Java-31a8ff?style=flat-square&logo=springboot&logoColor=fff)
 
-选择控制台（Console），粘贴，回车，在弹出的窗口点确认（点完自动复制）
+- [NoneBot2](https://github.com/nonebot/nonebot2) - A Python asynchronous cross-platform chatbot framework.
+- [LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - A MiHoYo Game Chatbot based on NoneBot2.
+- [nonebot-adapter-disord](https://github.com/CMHopeSunshine/adapter-discord) - Discord Adapter for NoneBot2.
+- [nonebot-adapter-villa](https://github.com/CMHopeSunshine/nonebot-adapter-villa) - MiHoYo Villa Adapter for NoneBot2.
+- [Villa](https://github.com/CMHopeSunshine/villa-py) - Python SDK for MiHoYo Villa.
+- [amis-python](https://github.com/CMHopeSunshine/amis-python) - Python encapsulation based on Baidu Amis front-end framework.
+- [unqdantic](https://github.com/CMHopeSunshine/unqdantic) - Python embedded NoSQL database ODM based on UnQLite. 
+- And more plugins for NoneBot2...
 
-- 手机获取
+## 🌍 **Environment**
 
-Alook、Thor、Stream
+![](https://img.shields.io/badge/Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![](https://img.shields.io/badge/PyCharm-4fc08d?style=flat-square&logo=pycharm&logoColor=fff)
+
+
+## 🎮 Playing **Games**
+
+- Honkai Star Rail
+- Genshin Impact
+- Honkai Impact
+- Pokemon
+- League of Legends
+- Teamfight Tactic
+- ...
