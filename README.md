@@ -1,8 +1,4 @@
 # Hi there 👋
-
-<a>
-  <img align="right" width="450px" src="./github-metrics.svg" />
-</a>
   
 <p align="center">
   <img width="300px" src="https://count.getloli.com/get/@CokeLau?theme=rule34"></img>
